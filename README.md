@@ -58,11 +58,11 @@
 				</style>
 <body>
 				<div class="background">
-								<img class="back" src="giphy.gif" alt="tai" width="360" height="610">
+								<img class="back" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/giphy.gif" alt="tai" width="360" height="610">
 				
 				<div class="sd">
 								<div class="ya">
-								<img class="aw" src="back.gif" width="200" height="200">
+								<img class="aw" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/back.gif" width="200" height="200">
 								</div>
 				<div class="kotak">
 				<p id="jam"></p>
