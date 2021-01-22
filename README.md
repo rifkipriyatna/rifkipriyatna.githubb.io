@@ -35,7 +35,7 @@
 }
 
 .aw{
-				margin-bottom:-130px;
+				margin-bottom:-125px;
 				border-radius:110px;
 }
 
@@ -76,7 +76,7 @@
 				<div class="kotak">
 				<p id="detik"></p>
 				</div>
-				</div><br>
+				</div><br><br>
 				<h1 class="name">Welcome</h1>
 				<p class="isi">Selamat Datang di pages Rifki Priyatna,jika anda ingin mengetahui lebih lanjut klik <a href="https://rifkipriyatna.github.io/Dataku.github.io/">Disini</a> </p>
 				</div>
