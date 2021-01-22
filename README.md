@@ -58,7 +58,7 @@
 				</style>
 <body>
 				<div class="background">
-								<img class="back" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/giphy.gif" alt="tai" width="390
+								<img class="back" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/giphy.gif" alt="tai" width="410
 								" height="610">
 				
 				<div class="sd">
