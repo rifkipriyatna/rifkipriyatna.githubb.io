@@ -58,7 +58,8 @@
 				</style>
 <body>
 				<div class="background">
-								<img class="back" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/giphy.gif" alt="tai" width="360" height="610">
+								<img class="back" src="https://raw.githubusercontent.com/rifkipriyatna/Welcome/main/giphy.gif" alt="tai" width="390
+								" height="610">
 				
 				<div class="sd">
 								<div class="ya">
@@ -75,7 +76,7 @@
 				<div class="kotak">
 				<p id="detik"></p>
 				</div>
-				</div>
+				</div><br>
 				<h1 class="name">Welcome</h1>
 				<p class="isi">Selamat Datang di pages Rifki Priyatna,jika anda ingin mengetahui lebih lanjut klik <a href="https://rifkipriyatna.github.io/Dataku.github.io/">Disini</a> </p>
 				</div>
