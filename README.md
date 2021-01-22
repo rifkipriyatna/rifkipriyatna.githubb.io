@@ -8,13 +8,13 @@
 				position:fixed;
 				top:0;
 				left:0;
-				width:350px;
+				width:380px;
 				height:620px;
 				
 }
 
 .sd{
-				font-size:30px;
+				font-size:25px;
 				text-align:center;
 				color:white;
 				margin-top:-450px;
@@ -29,7 +29,7 @@
 		
 		display:inline-block;
 		padding:7px;
-		margin-top:-200px;
+		margin-top:-210px;
 		
 			
 }
