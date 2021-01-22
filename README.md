@@ -17,7 +17,7 @@
 				font-size:25px;
 				text-align:center;
 				color:white;
-				margin-top:-450px;
+				margin-top:-430px;
 				
 				
 				
@@ -29,13 +29,13 @@
 		
 		display:inline-block;
 		padding:7px;
-		margin-top:-215px;
+		margin-top:-200px;
 		
 			
 }
 
 .aw{
-				margin-bottom:-125px;
+				margin-bottom:-130px;
 				border-radius:110px;
 }
 
