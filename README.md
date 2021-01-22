@@ -8,7 +8,7 @@
 				position:fixed;
 				top:0;
 				left:0;
-				width:380px;
+				width:375px;
 				height:620px;
 				
 }
@@ -29,7 +29,7 @@
 		
 		display:inline-block;
 		padding:7px;
-		margin-top:-210px;
+		margin-top:-215px;
 		
 			
 }
