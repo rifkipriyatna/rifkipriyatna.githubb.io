@@ -8,7 +8,7 @@
 				position:fixed;
 				top:0;
 				left:0;
-				width:375px;
+				width:370px;
 				height:620px;
 				
 }
@@ -35,7 +35,7 @@
 }
 
 .aw{
-				margin-bottom:-120px;
+				margin-bottom:-125px;
 				border-radius:110px;
 }
 
